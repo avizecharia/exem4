@@ -1,0 +1,16 @@
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\bin\Debug\net8.0-windows\RadingDate.exe
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\bin\Debug\net8.0-windows\RadingDate.deps.json
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\bin\Debug\net8.0-windows\RadingDate.runtimeconfig.json
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\bin\Debug\net8.0-windows\RadingDate.dll
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\bin\Debug\net8.0-windows\RadingDate.pdb
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\RadingDate.Form1.resources
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\RadingDate.csproj.GenerateResource.cache
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\RadingDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\RadingDate.AssemblyInfoInputs.cache
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\RadingDate.AssemblyInfo.cs
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\RadingDate.csproj.CoreCompileInputs.cache
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\RadingDate.dll
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\refint\RadingDate.dll
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\RadingDate.pdb
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\RadingDate.genruntimeconfig.cache
+C:\Users\IMOE001\source\repos\RadingDate\RadingDate\obj\Debug\net8.0-windows\ref\RadingDate.dll

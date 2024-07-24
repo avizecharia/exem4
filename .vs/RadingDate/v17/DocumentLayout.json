@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5E77C-79EF-4FCF-B65C-13E8C11854AF}|RadingDate\\RadingDate.csproj|c:\\users\\imoe001\\source\\repos\\radingdate\\radingdate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5E77C-79EF-4FCF-B65C-13E8C11854AF}|RadingDate\\RadingDate.csproj|solutionrelative:radingdate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5E77C-79EF-4FCF-B65C-13E8C11854AF}|RadingDate\\RadingDate.csproj|c:\\users\\imoe001\\source\\repos\\radingdate\\radingdate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFC5E77C-79EF-4FCF-B65C-13E8C11854AF}|RadingDate\\RadingDate.csproj|solutionrelative:radingdate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5E77C-79EF-4FCF-B65C-13E8C11854AF}|RadingDate\\RadingDate.csproj|c:\\users\\imoe001\\source\\repos\\radingdate\\radingdate\\configuration\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5E77C-79EF-4FCF-B65C-13E8C11854AF}|RadingDate\\RadingDate.csproj|solutionrelative:radingdate\\configuration\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5E77C-79EF-4FCF-B65C-13E8C11854AF}|RadingDate\\RadingDate.csproj|c:\\users\\imoe001\\source\\repos\\radingdate\\radingdate\\service\\dateinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5E77C-79EF-4FCF-B65C-13E8C11854AF}|RadingDate\\RadingDate.csproj|solutionrelative:radingdate\\service\\dateinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5E77C-79EF-4FCF-B65C-13E8C11854AF}|RadingDate\\RadingDate.csproj|c:\\users\\imoe001\\source\\repos\\radingdate\\radingdate\\model\\dateinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5E77C-79EF-4FCF-B65C-13E8C11854AF}|RadingDate\\RadingDate.csproj|solutionrelative:radingdate\\model\\dateinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DateInservice.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\RadingDate\\Service\\DateInservice.cs",
+              "RelativeDocumentMoniker": "RadingDate\\Service\\DateInservice.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\RadingDate\\Service\\DateInservice.cs",
+              "RelativeToolTip": "RadingDate\\Service\\DateInservice.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:19:51.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\RadingDate\\Form1.cs",
+              "RelativeDocumentMoniker": "RadingDate\\Form1.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\RadingDate\\Form1.cs",
+              "RelativeToolTip": "RadingDate\\Form1.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAuwKoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:03:00.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DateInModel.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\RadingDate\\Model\\DateInModel.cs",
+              "RelativeDocumentMoniker": "RadingDate\\Model\\DateInModel.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\RadingDate\\Model\\DateInModel.cs",
+              "RelativeToolTip": "RadingDate\\Model\\DateInModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:54:30.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\RadingDate\\Configuration\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "RadingDate\\Configuration\\AppConfiguration.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\RadingDate\\Configuration\\AppConfiguration.cs",
+              "RelativeToolTip": "RadingDate\\Configuration\\AppConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:52:46.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\RadingDate\\Form1.cs",
+              "RelativeDocumentMoniker": "RadingDate\\Form1.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\source\\repos\\RadingDate\\RadingDate\\Form1.cs [Design]",
+              "RelativeToolTip": "RadingDate\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:48:34.917Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

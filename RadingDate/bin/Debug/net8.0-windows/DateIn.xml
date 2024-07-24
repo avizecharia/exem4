@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query>
+    <day>רביעי</day>
+    <dayinmonth>30</dayinmonth>
+    <month>טבת</month>
+    <year>תשפ"ה</year>
+    <rasult>ברביעי בשבת ,  שלשים ימים לירח שהוא ראש חודש שבט   , בשנת חמשת אלפים ושבע מאות ושמנים וחמש לבריאת העולם</rasult>
+  </Query>
+  <Query>
+    <day>שני</day>
+    <dayinmonth>30</dayinmonth>
+    <month>כסלו</month>
+    <year>תשפ"ד</year>
+    <rasult>בשני בשבת ,  שלשים ימים לירח  כסלו  שהוא ראש חודש טבת   , בשנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</rasult>
+  </Query>
+</Queries>
